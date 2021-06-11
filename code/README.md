@@ -34,7 +34,15 @@ const char* password = "put password";
 - go to boards and create a line chart if everything goes well you should be seeing data being 
 ![Test Image 5](https://github.com/wendahere/SCDF-Simp/blob/main/code/pictures/dashboard.PNG.jpg?raw=true)
 
-## troubleshooting iot
+## Troubleshooting watson iot
+-change the sercurity option to tls optional 
+![Test Image 5](https://github.com/wendahere/SCDF-Simp/blob/main/code/pictures/tls.jpg?raw=true)
+
+
+### 2.0 node red 
+- go to ibm cloud and install node red starter
+- make sure to not give instance memory  more then 256 as lite account max limit is 256 mb 
+
 
 
 
