@@ -42,6 +42,9 @@ const char* password = "put password";
 ### 2.0 node red 
 - go to ibm cloud and install node red starter
 - make sure to not give instance memory  more then 256 as lite account max limit is 256 mb 
+-unzip node red and git push 
+
+
 
 
 
