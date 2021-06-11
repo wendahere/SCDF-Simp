@@ -7,4 +7,7 @@ Our solution therefore seeks to use Artificial Intelligence to achieve a data ba
 
 By tapping in on OEM installed sensors on each vehicle, we are able to perform analysis using a cloud based solution to deliver value added insights, helping optimize and reduce maintenance efforts and costs.
 
+Slides:
+https://docs.google.com/presentation/d/1egYVLVSej8FYE0NEPMgHQc4RXC0plB1CwDnbwNfVozY/edit?usp=sharing
+
 ### Team Members: Tristan Voon, Ashwin Dinesh, Sim Kian Seng, Lee Wenda, Silviana Ho
