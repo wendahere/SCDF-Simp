@@ -27,4 +27,7 @@ IBM watson studio
 esp 32 
 mqtt 
 
+## Project Timeline
+![Project Milestones](https://user-images.githubusercontent.com/67402819/121706989-b9a97700-cb08-11eb-9ce9-d8e4ee76f5e3.png)
+
 ### Team Members: Tristan Voon, Ashwin Dinesh, Sim Kian Seng, Lee Wenda, Silviana Ho
