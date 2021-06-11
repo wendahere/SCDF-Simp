@@ -1,6 +1,6 @@
 # SCDF-Simps
 
-![Test Image 4](https://github.com/wendahere/SCDF-Simp/blob/main/code/pictures/image.png?raw=true)
+![Test Image 4](https://github.com/wendahere/SCDF-Simp/blob/main/IBM%20Architecture.JPG?raw=true)
 
 ## Problem Overview
 The importance of SCDF's fleet of vehicles in responding to crises cannot be understated. However, like any other form of transportation, they require maintenance and inspections to ensure that they function in optimal condition. It is therefore desired that a maintenance solution be designed that both reflects the need for reliability, while being economical and cost friendly
