@@ -6,3 +6,5 @@ The importance of SCDF's fleet of vehicles in responding to crises cannot be und
 Our solution therefore seeks to use Artificial Intelligence to achieve a data based, predictive maintenance platform, with which maintenance of the SCDF Fleet of vehicles can be carried out.
 
 By tapping in on OEM installed sensors on each vehicle, we are able to perform analysis using a cloud based solution to deliver value added insights, helping optimize and reduce maintenance efforts and costs.
+
+### Team Members: Tristan Voon, Ashwin Dinesh, Sim Kian Seng, Lee Wenda, Silviana Ho
