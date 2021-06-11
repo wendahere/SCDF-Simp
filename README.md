@@ -1,5 +1,6 @@
 # SCDF-Simps
 
+
 ![Test Image 4](https://github.com/wendahere/SCDF-Simp/blob/main/IBM%20Architecture.JPG?raw=true)
 
 ## Problem Overview
@@ -14,5 +15,16 @@ https://docs.google.com/presentation/d/1egYVLVSej8FYE0NEPMgHQc4RXC0plB1CwDnbwNfV
 
 1 minute video pitch:
 https://youtu.be/wDU8NT-tZdU
+
+#### Technologies used
+We used the following technologies:
+
+Node-Red
+IBM Cloudant
+IBM watson iot 
+IBM cloudfoundry 
+IBM watson studio 
+esp 32 
+mqtt 
 
 ### Team Members: Tristan Voon, Ashwin Dinesh, Sim Kian Seng, Lee Wenda, Silviana Ho
