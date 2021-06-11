@@ -16,7 +16,7 @@ https://docs.google.com/presentation/d/1egYVLVSej8FYE0NEPMgHQc4RXC0plB1CwDnbwNfV
 1 minute video pitch:
 https://youtu.be/wDU8NT-tZdU
 
-##Technologies used
+## Technologies used
 We used the following technologies:
 
 Node-Red
