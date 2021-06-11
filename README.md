@@ -12,4 +12,7 @@ By tapping in on OEM installed sensors on each vehicle, we are able to perform a
 Slides:
 https://docs.google.com/presentation/d/1egYVLVSej8FYE0NEPMgHQc4RXC0plB1CwDnbwNfVozY/edit?usp=sharing
 
+1 minute video pitch:
+https://youtu.be/wDU8NT-tZdU
+
 ### Team Members: Tristan Voon, Ashwin Dinesh, Sim Kian Seng, Lee Wenda, Silviana Ho
